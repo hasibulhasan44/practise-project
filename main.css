@@ -1,0 +1,88 @@
+body{
+    background-image: linear-gradient(90deg, #02111B,#1A232B);
+    color: rgb(255, 255, 255);
+    margin: 0;
+}
+#ad{
+    display: flex;
+    margin-left: 5%;
+    margin-bottom: 150px;
+}
+.diet{
+    color: orangered;
+}
+.text h1{
+    font-size: 50px;
+}
+.text{
+    font-size: 20px;
+}
+.company{
+    color: #00ffff;
+}
+.link-button{
+    text-decoration: none;
+    color: rgb(95, 5, 5);
+    border: 5px;
+    padding: 10px 40px;
+    background-image: linear-gradient(45deg,#5D737E, #D5DADD);
+    font-weight: 600;
+}
+.pic{
+    width: 50%;
+    padding-left: 45%;
+    margin-top: 3%;
+}
+/* 2nd section */
+.love-pic{
+    width: 90%;
+    margin-top: 25%;
+}
+.lorem{
+    width: 50%;
+    margin-left: 20%;
+    font-size: 20px;
+}
+.healthy{
+    color: cyan;
+}
+.like-pic{
+    padding-left: 5%;
+    width: 110%;
+    border-radius: 15px;
+}
+.important{
+    width: 50%;
+    font-size: 20px;
+    margin-left: 29%;
+    margin-top: 50px;
+}
+.details{
+    font-size: 20px;
+    width: 50%;
+}
+.me-pic{
+    margin-right: 70px;
+    width: 500px;
+}
+/* 3rd section */
+.intro h1{
+    text-align: center;
+    font-size: 40px;
+}
+.lorem-history{
+    text-align: center;
+    padding: 5px 20px;
+}
+/* 4th section */
+.recipe-box{
+    border: 5px solid #02111B;
+    width: 50%;
+    border-radius: 7px;
+}
+.recipe-img{
+    width: 400px;
+    border-radius: 15px;
+    
+    
+}
